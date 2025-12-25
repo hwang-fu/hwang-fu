@@ -1,6 +1,6 @@
 **Live Preview**: [go here](https://hwang-fu.github.io/)
 
-### Side Projects
+#### Side Projects
 
 - **[DevBot](https://github.com/hwang-fu/devbot)**: A Discord bot with AI chat and GitHub notifications.
 
