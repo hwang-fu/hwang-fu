@@ -2,6 +2,6 @@
 
 ### Side Projects
 
-- **[DevBot](https://github.com/hwang-fu/devbot)** — A Discord bot with AI chat and GitHub notifications, built with TypeScript (discord.js) and Python (FastAPI)
+- **[DevBot](https://github.com/hwang-fu/devbot)**: A Discord bot with AI chat and GitHub notifications.
 
-- **[MiniContainer](https://github.com/hwang-fu/minicontainer)** — A minimal Linux container runtime in Go (WIP)
+- **[MiniContainer](https://github.com/hwang-fu/minicontainer)** — A minimal Linux container runtime (WIP).
