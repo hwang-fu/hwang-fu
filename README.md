@@ -8,4 +8,4 @@
 
 - 🧊 **[MiniContainer](https://github.com/hwang-fu/minicontainer)** — A minimal **Linux container runtime from scratch** (100% original, I claim onwership).
 
-- 🍊 **[Orange](https://github.com/hwang-fu/orange)** — A polyglot **search engine from scratch** (Go, OCaml, Haskell, Rust, Elixir, Fennel). No external libraries. (WIP)
+- 🍊 **[Orange](https://github.com/hwang-fu/orange)** — A polyglot **search engine from scratch** (Go, OCaml, Haskell, Rust, Elixir, Fennel). No external libraries. (100% original, WIP)
