@@ -4,7 +4,7 @@
 
 - 🤖 **[DevBot](https://github.com/hwang-fu/devbot)**: A **Discord bot** with AI chat and GitHub notifications.
 
-- 🧐 **[Portlens](https://github.com/hwang-fu/portlens)** — A lightweight **Linux network traffic sniffer** from scratch. AF_PACKET sockets, manual protocol parsing, process identification (100% original work).
+- 🧐 **[Portlens](https://github.com/hwang-fu/portlens)** — A lightweight **Linux network traffic sniffer** from scratch. AF_PACKET sockets, manual protocol parsing, process identification (100% original work, v1.0.0 release).
 
 - 🧊 **[MiniContainer](https://github.com/hwang-fu/minicontainer)** — A minimal **Linux container runtime from scratch** (100% original work, v1.0.0 release).
 
