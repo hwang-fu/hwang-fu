@@ -9,3 +9,5 @@
 - 🧊 **[MiniContainer](https://github.com/hwang-fu/minicontainer)** — A minimal **Linux container runtime from scratch** (100% original work).
 
 - 🍊 **[Orange](https://github.com/hwang-fu/orange)** — A polyglot **search engine from scratch** (Go, OCaml, Haskell, Rust, Elixir, Fennel). No external libraries. (100% original work, WIP)
+
+- 📐 **[Delta](https://github.com/hwang-fu/delta)** — A tensor-based **autograd engine from scratch** in Rust. Zero dependencies. (100% original work, WIP)
