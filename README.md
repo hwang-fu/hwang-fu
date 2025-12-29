@@ -2,7 +2,7 @@
 
 #### Side Projects
 
-- 🤖 **[DevBot](https://github.com/hwang-fu/devbot)**: A **Discord bot** with AI chat and GitHub notifications.
+- 🤖 **[DevBot](https://github.com/hwang-fu/devbot)**: A **Discord bot** with AI chat and GitHub notifications (heavily relies on 3rd party libraries).
 
 - 🧐 **[Portlens](https://github.com/hwang-fu/portlens)** — A lightweight **Linux network traffic sniffer** from scratch. AF_PACKET sockets, manual protocol parsing, process identification (100% original work, v1.0.0 release).
 
