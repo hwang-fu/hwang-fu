@@ -11,3 +11,5 @@
 - 🍊 **[Orange](https://github.com/hwang-fu/orange)** — A polyglot **search engine from scratch** (Go, OCaml, Haskell, Rust, Elixir, Fennel). No external libraries. (100% original work, WIP)
 
 - 📐 **[Delta](https://github.com/hwang-fu/delta)** — A tensor-based **autograd engine from scratch** in Rust. Zero dependencies. (100% original work, WIP)
+
+- ⚙️ **[rv32emu](https://github.com/hwang-fu/rv32emu)** — A **RISC-V RV32I emulator from scratch**. ADTs for instruction encoding, exhaustive pattern matching for decoding. (100% original work, WIP)
