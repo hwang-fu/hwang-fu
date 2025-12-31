@@ -8,7 +8,7 @@
 
 - 🧊 **[MiniContainer](https://github.com/hwang-fu/minicontainer)** — A minimal **Linux container runtime from scratch** (100% original work, v1.0.0 release).
 
-- 「」**[wvec](https://github.com/hwang-fu/wvec)** — A **Word2Vec implementation from scratch** in Rust + Modern Fortran. BLAS/OpenMP-accelerated training, BPE tokenizer, thermal monitoring. Zero Rust dependencies. (100% original work, v1.0.0 release)
+- 「」**[wvec](https://github.com/hwang-fu/wvec)** — A **Word2Vec implementation from scratch** in Rust + Modern Fortran. BLAS/OpenMP-accelerated training, BPE tokenizer. (100% original work, v1.0.0 release)
 
 - 🍊 **[Orange](https://github.com/hwang-fu/orange)** — A polyglot **search engine from scratch** (Go, OCaml, Haskell, Rust, Elixir, Fennel). No external libraries. (100% original work, WIP)
 
